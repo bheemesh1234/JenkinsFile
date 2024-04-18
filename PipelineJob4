@@ -6,7 +6,7 @@ pipeline{
                 sh '''
                 ls 
                 pwd
-                data
+                date
                 cal 2024
                 '''
             }
